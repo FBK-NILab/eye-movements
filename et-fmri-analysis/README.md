@@ -1,3 +1,3 @@
-`hanson_wb.py`: Python script that implements [Hanson et al.](http://www.ncbi.nlm.nih.gov/pubmed/19104925 "Solving the brain synchrony eigenvalue problem: conservation of temporal dynamics (fMRI) over subjects doing the same task.") between - participants SVD method to extract common profiles in time.
-`classification.py`: Python script that implement a discrimination task on studyforrest.org data. Category considered is the scene environment. Labels classified are "Internal" or "External" scene.
-`searchlight.py`: Python script that perform a classification task on scene environment, implemented in a searchlight fashion.
+* `hanson_wb.py`: Python script that implements [Hanson et al.](http://www.ncbi.nlm.nih.gov/pubmed/19104925 "Solving the brain synchrony eigenvalue problem: conservation of temporal dynamics (fMRI) over subjects doing the same task.") between - participants SVD method to extract common profiles in time.
+* `classification.py`: Python script that implement a discrimination task on studyforrest.org data. Category considered is the scene environment. Labels classified are "Internal" or "External" scene.
+* `searchlight.py`: Python script that perform a classification task on scene environment, implemented in a searchlight fashion.
